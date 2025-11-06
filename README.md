@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Computer science student 📚<br>- Studying distributed systems and full stack development with javascript and mongoDB 🤓<br>- Fan of philosophy learn and apply 🧠</p>
+<p align="left">- Computer science student 📚<br>- Studying distributed systems and full stack development 🤓<br>- Fan of philosophy learn and apply 🧠</p>
 
 ###
 
